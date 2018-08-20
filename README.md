@@ -1,6 +1,8 @@
 # CDR-parser
 Python script to collect AVAYA call log into a MS-SQL database
 
+(first steps on publish my codes on github)
+
 Requirements
 ------------
 collector:
