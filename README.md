@@ -7,8 +7,8 @@ Requirements
 ------------
 collector:
 MS machine
-python 2.7 on it
+python 3 (tested on 3.6.5) on it
 modules socket and pymssql
 
 database:
-any MS SQL database server
+any MS SQL database server with the right to write data
