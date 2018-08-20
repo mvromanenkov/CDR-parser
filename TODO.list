@@ -1,0 +1,3 @@
+- Fix credential dublictes or delete the consts DBNAME,DBUSER,DBPASS
+- Make a "create" script for the database (for the installation)
+- Create automatic field name and length retrieval from the call server
