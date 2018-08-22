@@ -20,8 +20,7 @@ DBNAME = 'dbname'
 DBUSER = 'dbuser'
 DBPASS = 'dbpass'
 
-#---change using constants above---
-DBCRED = {'server':'dbaddr','database':'dbname','user':'dbuser','password':'dbpass'}
+DBCRED = {'server':DBADDR,'database':DBNAME,'user':DBUSER,'password':DBPASS}
 
 DBTBL = 'AVAYACDR'
 DBFLD = '([date],[time],[vdn],[calling-num],[dialed-num],[sec-dur],[in-trk-code],[clg-num-in-tac],[in-crt-id],[out-crt-id],[duration],[code-used])'
